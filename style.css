@@ -8,10 +8,11 @@
 
 <style type="text/css">
 body {
-  background-image: url("Purple.jpg");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
+ .bgimg {
+  background-image: url('Purple.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
 }
 
 img{
