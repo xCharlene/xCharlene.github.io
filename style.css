@@ -1,5 +1,4 @@
  <!--Fonts-->
- <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
  <link href='https://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
  <link href='https://fonts.googleapis.com/css?family=Neucha' rel='stylesheet' type='text/css'>
   
@@ -93,7 +92,7 @@ letter-spacing: 1px;
 }
 
 h3{
-font-family: 'Pacifico', cursive;
+font-family: 'Covered By Your Grace';
 text-decoration: underline;
 font-size: 150%;
 }
@@ -124,7 +123,7 @@ padding-left: 12px;
 
 
 #logo {
-font-family: 'Pacifico', cursive;
+font-family: 'Covered By Your Grace';
 font-size: 50px;
 font-weight: 700;
 letter-spacing: 2px;
@@ -197,7 +196,7 @@ margin: 1em auto;
 
 input::-webkit-input-placeholder{
 color: {color:Text};
-font-family: 'Pacifico', cursive;
+font-family: 'PCovered By Your Grace';
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
@@ -205,7 +204,7 @@ text-transform: uppercase;
 
 input::-moz-placeholder {
 color: {color:Text};
-font-family: 'Pacifico', cursive;
+font-family: 'PCovered By Your Grace';
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
@@ -213,7 +212,7 @@ text-transform: uppercase;
 
 input:-ms-input-placeholder {
 color: {color:Text};
-font-family: 'Pacifico', cursive;
+font-family: 'Covered By Your Grace';
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
@@ -232,7 +231,7 @@ border: 3px solid {color:Text};
 }
 div.s.sidebarnav > ul > li a{
 color: {color:Text};
-font-family: 'Pacifico', cursive;
+font-family: 'Covered By Your Grace';
 font-weight: 700;
 text-decoration: none;
 text-transform: uppercase;
