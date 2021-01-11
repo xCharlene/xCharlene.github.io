@@ -13,7 +13,7 @@ margine: 0;
 
 body {
 font-family: 'Covered By Your Grace';
-font-weight: 400;
+font-size:100%;
 color: black;
 }
 
@@ -28,22 +28,20 @@ color: {color:Hover};
 }
 
 h1, h2 {
-font-weight: 400;
+font-family: 'Raleway';
 letter-spacing: 1px;
 }
 
 
 h1 { <!--PAGE_HEADER-->
-font-family: 'Raleway';
-font-size: 300;
+font-size: 300%;
 text-decoration: none;
 text-align: center;
 }
 
 
 h2 { <!--POST_HEADER-->
-font-family: 'Raleway';
-font-size: 130;
+font-size: 130%;
 text-decoration: underline;
 }
 
