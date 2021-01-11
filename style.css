@@ -50,6 +50,8 @@ text-decoration: underline;
 
 footer {
 text-align: center;
+position: fixed;
+bottom: 0;
 }  
 
 hr { <!--HORIZONTAL_LINE-->
@@ -60,6 +62,14 @@ hr { <!--HORIZONTAL_LINE-->
  margin-right: auto;
  border-style: inset;
  border-width: 2px;
+}
+
+.nothingyet{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
   
  
