@@ -1,9 +1,7 @@
 <!-- Colors -->
-<meta name="color:Header" content="#F3F3F3">
-<meta name="color:Post Background" content="#FEFEFE">
-<meta name="color:Text" content="#262626">
-<meta name="color:Hover" content="#C0C0C0">
-<meta name="color:Logo" content="#262626">
+<meta name="color:Header" content="#12211C">
+<meta name="color:Text" content="#100C22">
+<meta name="color:Hover" content="#799A8F">
 
 
 <style type="text/css">
@@ -16,6 +14,7 @@ margine: 0;
 body {
 font-family: 'Neucha', cursive;
 font-weight: 400;
+color: black;
 }
 
 a, a:visited{
@@ -36,7 +35,7 @@ letter-spacing: 1px;
 
 h1 { <!--PAGE_HEADER-->
 font-family: 'Covered By Your Grace';
-font-size: 180;
+font-size: 300;
 text-decoration: none;
 text-align: center;
 }
@@ -63,21 +62,6 @@ hr { <!--HORIZONTAL_LINE-->
  border-width: 1px;
 }
   
-.nothingyet {
-font-family: 'Covered By Your Grace';
-font-size: 300;
-font-colour: #100C22;
-text-decoration: none;
-text-align: center;
-position: fixed;
-top: 50%;
-left: 50%;
-/* bring your own prefixes */
-transform: translate(-50%, -50%);
-
-
-
-}
  
   
 </style>  
