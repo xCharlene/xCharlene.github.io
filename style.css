@@ -7,14 +7,6 @@
 <meta name="color:Logo" content="#262626">
 
 <style type="text/css">
-body {
- .bgimg {
-  background-image: url('Purple.jpg');
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
-}
-
 img{
 display: block;
 max-width: 100%;
