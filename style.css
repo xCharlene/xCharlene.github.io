@@ -12,7 +12,7 @@ margine: 0;
 }
 
 body {
-font-family: 'Neucha', cursive;
+font-family: 'Covered By Your Grace';
 font-weight: 400;
 color: black;
 }
@@ -34,7 +34,7 @@ letter-spacing: 1px;
 
 
 h1 { <!--PAGE_HEADER-->
-font-family: 'Covered By Your Grace';
+font-family: 'Raleway';
 font-size: 300;
 text-decoration: none;
 text-align: center;
@@ -42,7 +42,7 @@ text-align: center;
 
 
 h2 { <!--POST_HEADER-->
-font-family: 'Covered By Your Grace'; 
+font-family: 'Raleway';
 font-size: 130;
 text-decoration: underline;
 }
@@ -59,7 +59,7 @@ hr { <!--HORIZONTAL_LINE-->
  margin-left: auto;
  margin-right: auto;
  border-style: inset;
- border-width: 1px;
+ border-width: 2px;
 }
   
  
