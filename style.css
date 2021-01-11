@@ -34,22 +34,22 @@ letter-spacing: 1px;
 }
 
 
-
 h1 { <!--PAGE_HEADER-->
 font-family: 'Covered By Your Grace';
-text-decoration: none; 
 font-size: 180;
+text-decoration: none;
+text-align: center;
 }
 
 
 h2 { <!--POST_HEADER-->
-font-family: 'Covered By Your Grace';
-text-decoration: underline; 
+font-family: 'Covered By Your Grace'; 
 font-size: 130;
+text-decoration: underline;
 }
 
 
-h1, footer {
+footer {
 text-align: center;
 }  
 
@@ -63,6 +63,21 @@ hr { <!--HORIZONTAL_LINE-->
  border-width: 1px;
 }
   
+.nothingyet {
+font-family: 'Covered By Your Grace';
+font-size: 300;
+font-colour: #100C22;
+text-decoration: none;
+text-align: center;
+position: fixed;
+top: 50%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+
+
+
+}
  
   
 </style>  
