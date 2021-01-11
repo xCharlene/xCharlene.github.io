@@ -7,6 +7,13 @@
 <meta name="color:Logo" content="#262626">
 
 <style type="text/css">
+body {
+  background-image: url("Purple.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
 img{
 display: block;
 max-width: 100%;
