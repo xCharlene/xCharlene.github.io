@@ -46,12 +46,22 @@ h2 { <!--POST_HEADER-->
 font-family: 'Covered By Your Grace';
 text-decoration: underline; 
 font-size: 130;
+}
 
 
 h1, footer {
 text-align: center;
+}  
 
-  
+hr { <!--HORIZONTAL_LINE-->
+ display: block;
+ margin-top: 0.5em;
+ margin-bottom: 0.5sem;
+ margin-left: auto;
+ margin-right: auto;
+ border-style: inset;
+ border-width: 1px;
+}
   
  
   
