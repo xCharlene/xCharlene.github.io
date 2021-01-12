@@ -19,7 +19,7 @@ letter-spacing: 1px;
 
 
 h1 { <!--PAGE_HEADER-->
-font-size: 300px;
+font-size: 500%;
 color: #12211C;
 text-decoration: none;
 text-align: center;
@@ -27,7 +27,7 @@ text-align: center;
 
 
 h2 { <!--POST_HEADER-->
-font-size: 130px;
+font-size: 130p%;
 color: #12211C;
 text-decoration: underline;
 }
