@@ -1,9 +1,3 @@
-<!-- Colors -->
-<meta name="color:Header" content="#12211C">
-<meta name="color:Text" content="#100C22">
-<meta name="color:Hover" content="#799A8F">
-
-
 <style type="text/css">
 
 body, html {
@@ -14,18 +8,9 @@ margine: 0;
 body {
 font-family: 'Raleway';
 font-size:100%;
-color: black;
+color: #100C22;
 }
 
-a, a:visited{
-color: {AccentColor};
-{block:IfNotUnderlineLinks}text-decoration: none;{/block:IfNotUnderlineLinks}
-{block:IfUnderlineLinks}text-decoration: underline;{/block:IfUnderlineLinks}
-}
-
-a:hover, a:active {
-color: {color:Hover};
-}
 
 h1, h2 {
 font-family: 'Covered By Your Grace';
@@ -35,6 +20,7 @@ letter-spacing: 1px;
 
 h1 { <!--PAGE_HEADER-->
 font-size: 300px;
+color: #12211C;
 text-decoration: none;
 text-align: center;
 }
@@ -42,6 +28,7 @@ text-align: center;
 
 h2 { <!--POST_HEADER-->
 font-size: 130px;
+color: #12211C;
 text-decoration: underline;
 }
 
