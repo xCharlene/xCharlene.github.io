@@ -34,14 +34,14 @@ letter-spacing: 1px;
 
 
 h1 { <!--PAGE_HEADER-->
-font-size: 300%;
+font-size: 300px;
 text-decoration: none;
 text-align: center;
 }
 
 
 h2 { <!--POST_HEADER-->
-font-size: 130%;
+font-size: 130px;
 text-decoration: underline;
 }
 
