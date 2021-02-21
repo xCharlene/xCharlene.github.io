@@ -1,10 +1,5 @@
 <style type="text/css">
 
-body, background {
-background-image: url(Background_1.png);
-background-size: 100% 100%;
- 
-}
 
 body, html {
 padding: 0;
@@ -44,6 +39,7 @@ text-decoration: underline;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
+}
 
 
 footer {
@@ -52,13 +48,9 @@ text-align: center;
 position: fixed;
 bottom: 100%;
 left: 50%;
-transform: translate(-50%,100%);
- 
+transform: translate(-50%,100%); 
 }  
 
-
-
-}
   
  #search > input[type="text"]{
  display: block;
