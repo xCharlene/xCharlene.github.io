@@ -20,7 +20,7 @@ letter-spacing: 1px;
 
 
 h1 { 
-font-size: 300%;
+font-size: 350%;
 color: #12211C;
 text-decoration: none;
 text-align: center;
@@ -34,7 +34,7 @@ text-decoration: underline;
 }
 
 footer {
-font-size: 150%;
+font-size: 140%;
 text-align: center;
 position: fixed;
 bottom: 0%;
