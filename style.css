@@ -1,7 +1,10 @@
 <style type="text/css">
 
-@import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+body, background {
+background-image: url(Background_1.png);
+background-size: 100% 100%;
+ 
+}
 
 body, html {
 padding: 0;
