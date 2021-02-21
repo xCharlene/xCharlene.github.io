@@ -13,12 +13,12 @@ color: #100C22;
 
 
 h1, h2 {
-font-family: 'Covered By Your Grace';
+font-family: 'Covered By Your Grace', cursive;
 letter-spacing: 1px;
 }
 
 
-h1 { <!--PAGE_HEADER-->
+h1 { 
 font-size: 500%;
 color: #12211C;
 text-decoration: none;
@@ -26,7 +26,7 @@ text-align: center;
 }
 
 
-h2 { <!--POST_HEADER-->
+h2 { 
 font-size: 130p%;
 color: #12211C;
 text-decoration: underline;
