@@ -28,19 +28,10 @@ text-align: center;
 
 
 h2 { 
-font-size: 130p%;
+font-size: 130%;
 color: #12211C;
 text-decoration: underline;
 }
-
-.nothingyet{
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
-}
-
 
 footer {
 font-size: 200%;
@@ -49,6 +40,14 @@ position: fixed;
 bottom: 0%;
 left: 50%
 }  
+
+.nothingyet{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
 
   
  #search > input[type="text"]{
