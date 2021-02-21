@@ -19,7 +19,7 @@ letter-spacing: 1px;
 
 
 h1 { 
-font-size: 500%;
+font-size: 300%;
 color: #12211C;
 text-decoration: none;
 text-align: center;
@@ -70,21 +70,21 @@ hr { <!--HORIZONTAL_LINE-->
 }
 
 input::-webkit-input-placeholder{
-font-family: 'Raleway', sans-serif;
+font-family: 'Truculenta', sans-serif;
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
 }
 
 input::-moz-placeholder {
-font-family: 'Raleway', sans-serif;
+font-family: 'Truculenta', sans-serif;
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
 }
 
 input:-ms-input-placeholder {
-font-family: 'Raleway', sans-serif;
+font-family: 'Truculenta', sans-serif;
 font-weight: 700;
 text-align: center;
 text-transform: uppercase;
