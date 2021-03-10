@@ -31,7 +31,7 @@ text-align: center;
 
 h2 { 
 font-size: 130%;
-color: grey;
+color: darkgrey;
 text-decoration: underline;
 }
 
@@ -70,14 +70,14 @@ transform: translate(-50%, 0%);
 .mainprojects {
  position: fixed;
  top: 40%;
- left: 45%;
+ left: 35%;
  tranform: translate(40%, 40%);
 }
 
 .mainsearch {
  position: fixed;
  top: 40%;
- left: 75%;
+ left: 65%;
  tranform: translate(75%, 40%);
 }
 
