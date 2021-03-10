@@ -58,11 +58,9 @@ transform: translate(-50%, 0%);
 text-align: left;
 top: 20%;
 left: 15%;
-right: 15%;
+width: 70%;
 transform: translate (20%, -15%)
 }
-
-
 /*END_post: for all pages*/
 
 /*START_border-main: in betwwen 20px*/
