@@ -7,7 +7,7 @@ margine: 0;
 }
 
 body {
-font-family: 'Neucha';
+font-family: 'Times New Roman';
 font-size: 120%;
 color: grey;
 }
@@ -88,7 +88,7 @@ transform: translate (20%, 15%)
   
 /*START_LinkColours*/
 a:link {
-colour: darkgrey;
+colour: #2F4F4F;
 }
 
 a:visited{
