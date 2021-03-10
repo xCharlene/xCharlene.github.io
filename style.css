@@ -89,18 +89,22 @@ transform: translate (20%, -15%)
 /*START_LinkColours*/
 a:link {
 color: #2F4F4F;
+text-decoration: none;
 }
 
 a:visited{
 color: navy;
+text-decoration: none;
 }
 
 a:hover{
 color: green;
+text-decoration: none;
 }
 
 a:active{
 color:pink;
+text-decoration: none;
 }
 
 /*END_LinkColours*/
