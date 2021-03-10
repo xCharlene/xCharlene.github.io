@@ -68,21 +68,21 @@ transform: translate (-10%, 30%)
  position: fixed;
  top: 40%;
  left: 10%;
- tranform: translate(-10%, 40%);
+ tranform: translate(-10%, -40%);
 }
 
 .mainprojects {
  position: fixed;
  top: 40%;
  left: 50%;
- tranform: translate(-50%, 40%);
+ tranform: translate(-50%, -40%);
 }
 
 .mainsearch {
  position: fixed;
  top: 40%;
  left: 80%;
- tranform: translate(-80%, 40%);
+ tranform: translate(-80%, -40%);
 }
 /*END_border-main: in betwwen 20px*/
   
