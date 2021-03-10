@@ -1,4 +1,6 @@
 <style type="text/css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Neucha&display=swap" rel="stylesheet">
 
 body, html {
 height: 100%;
@@ -14,7 +16,8 @@ color: grey;
 
 
 h1, h2 {
-font-family: 'Covered By Your Grace';
+font-family: 'Neucha';
+
 }
 
 
