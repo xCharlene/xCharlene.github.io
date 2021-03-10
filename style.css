@@ -67,22 +67,22 @@ transform: translate (-10%, 30%)
 .mainabout {
  position: fixed;
  top: 40%;
- left: 12%;
- tranform: translate(12%, 40%);
+ left: 10%;
+ tranform: translate(10%, 40%);
 }
 
 .mainprojects {
  position: fixed;
  top: 40%;
- left: 37.5%;
- tranform: translate(40%, 37.5%);
+ left: 45%;
+ tranform: translate(45%, 40%);
 }
 
 .mainsearch {
  position: fixed;
  top: 40%;
- left: 77%;
- tranform: translate(77%, 40%);
+ left: 72%;
+ tranform: translate(72%, 40%);
 }
 /*END_border-main: in betwwen 20px*/
   
