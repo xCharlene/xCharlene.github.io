@@ -50,7 +50,7 @@ transform: translate(-50%, 0%);
   transform: translate(-50%, -50%);
 }
 
-.no-copy {
+.nocopy {
   -webkit-user-select: none;  /* Chrome all / Safari all */
   -moz-user-select: none;     /* Firefox all */
   -ms-user-select: none;      /* IE 10+ */
