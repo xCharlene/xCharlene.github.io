@@ -1,6 +1,5 @@
 <style type="text/css">
 
-
 body, html {
 height: 100%;
 padding: 0;
@@ -43,22 +42,45 @@ left: 50%;
 transform: translate(-50%, 0%);
 }  
 
-.nothingyet{
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
-}
-
 .noselect {
   -webkit-user-select: none;  /* Chrome all / Safari all */
   -moz-user-select: none;     /* Firefox all */
   -ms-user-select: none;      /* IE 10+ */
   user-select: none;          /* Likely future */     
+} 
+
+.nothingyet{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
+/*border-main: in betwwen 20px*/
+
+.mainabout {
+ position: fixed;
+ top: 50%;
+ left: 20%;
+ tranform: translate(-20%, -50%);
+}
+
+.mainprojects {
+ position: fixed;
+ top: 50%;
+ left: 50%;
+ tranform: translate(-50%, -50%);
+}
+
+.mainsearch {
+ position: fixed;
+ top: 50%;
+ left: 80%;
+ tranform: translate(-80%, -50%);
+}
   
+
+
  #search > input[type="text"]{
  display: block;
  max-width: 90%;
