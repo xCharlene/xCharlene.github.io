@@ -74,15 +74,15 @@ transform: translate (-10%, 30%)
 .mainprojects {
  position: fixed;
  top: 40%;
- left: 45%;
- tranform: translate(45%, 40%);
+ left: 50%;
+ tranform: translate(-50%, 40%);
 }
 
 .mainsearch {
  position: fixed;
  top: 40%;
- left: 72%;
- tranform: translate(72%, 40%);
+ left: 80%;
+ tranform: translate(-80%, 40%);
 }
 /*END_border-main: in betwwen 20px*/
   
