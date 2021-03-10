@@ -53,6 +53,7 @@ transform: translate(-50%, 0%);
 /*START_post: for all pages*/
 .post {
 text-align: left;
+position: fixed;
 top: 20%;
 left: 15%;
 width: 70%;
@@ -90,17 +91,17 @@ text-decoration: none;
 }
 
 a:visited{
-color: navy;
+color: #C5DCA8;
 text-decoration: none;
 }
 
 a:hover{
-color: green;
+color: #1A260C;
 text-decoration: none;
 }
 
 a:active{
-color:pink;
+color:#33451C;
 text-decoration: none;
 }
 
