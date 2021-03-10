@@ -51,8 +51,6 @@ transform: translate(-50%, 0%);
 
 .nothingyet{
   position: fixed;
-  top: 50%;
-  left: 50%;
   transform: translate(-50%, -50%);
 }
 
@@ -60,58 +58,17 @@ transform: translate(-50%, 0%);
 
 .mainabout {
  position: fixed;
- top: 45%;
- left: 20%;
  tranform: translate(20%, 45%);
 }
 
 .mainprojects {
  position: fixed;
- top: 45%;
- left: 50%;
  tranform: translate(50%, 45%);
 }
 
 .mainsearch {
  position: fixed;
- top: 45%;
- left: 80%;
  tranform: translate(80%, 45%);
-}
-  
-
-
- #search > input[type="text"]{
- display: block;
- max-width: 90%;
- min-height: 36px;
- background: transparent;
- border-top: none;
- border-left: none;
- border-right: none;
- border-bottom: 3px solid {color:Text};
- margin: 1em auto;
-}
-
-input::-webkit-input-placeholder{
-font-family: 'Truculenta', sans-serif;
-font-weight: 700;
-text-align: center;
-text-transform: uppercase;
-}
-
-input::-moz-placeholder {
-font-family: 'Truculenta', sans-serif;
-font-weight: 700;
-text-align: center;
-text-transform: uppercase;
-}
-
-input:-ms-input-placeholder {
-font-family: 'Truculenta', sans-serif;
-font-weight: 700;
-text-align: center;
-text-transform: uppercase;
 }
 
   
