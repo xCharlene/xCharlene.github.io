@@ -75,7 +75,7 @@ transform: translate (-10%, 30%)
  position: fixed;
  top: 40%;
  left: 50%;
- tranform: translate(0%, 40%);
+ tranform: translate(-50%, 40%);
 }
 
 .mainsearch {
