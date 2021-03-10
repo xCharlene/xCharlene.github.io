@@ -56,10 +56,10 @@ transform: translate(-50%, 0%);
 .post {
 text-align: left;
 position: fixed;
-top: 23%;
+top: 25%;
 left: 10%;
 width: 80%;
-transform: translate (-10%, 23%)
+transform: translate (-10%, 25%)
 }
 /*END_post: for all pages*/
 
