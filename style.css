@@ -1,6 +1,4 @@
 <style type="text/css">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Neucha&display=swap" rel="stylesheet">
 
 body, html {
 height: 100%;
@@ -15,13 +13,8 @@ color: grey;
 }
 
 
-h1, h2 {
-font-family: 'Neucha';
-
-}
-
-
 h1 { 
+font-family: 'Neucha';
 font-size: 300%;
 color: black;
 text-decoration: none;
@@ -30,6 +23,7 @@ text-align: center;
 
 
 h2 { 
+font-family: 'Neucha';
 font-size: 130%;
 color: darkgrey;
 text-decoration: underline;
@@ -58,8 +52,18 @@ transform: translate(-50%, 0%);
   transform: translate(-50%, -50%);
 }
 
-/*border-main: in betwwen 20px*/
+/*START_post: for all pages*/
+.post {
+position: fixed;
+top: 20%;
+left: 20%;
+transform: translate(20%,20%);
+}
 
+
+/*END_post: for all pages*/
+
+/*START_border-main: in betwwen 20px*/
 .mainabout {
  position: fixed;
  top: 40%;
@@ -80,7 +84,7 @@ transform: translate(-50%, 0%);
  left: 65%;
  tranform: translate(75%, 40%);
 }
-
+/*END_border-main: in betwwen 20px*/
   
 </style>  
 
