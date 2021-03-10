@@ -86,6 +86,27 @@ transform: translate (20%, -15%)
 }
 /*END_border-main: in betwwen 20px*/
   
+/*START_LinkColours*/
+a:link {
+colour: darkgrey;
+}
+
+a:visited{
+colour: navy;
+}
+
+a:hover{
+colour: green;
+}
+
+a:active{
+colour:pink;
+}
+
+/*END_LinkColours*/
+
+
+
 </style>  
 
 
