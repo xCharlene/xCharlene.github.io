@@ -62,21 +62,21 @@ transform: translate(-50%, 0%);
  position: fixed;
  top: 45%;
  left: 20%;
- tranform: translate(-20%, -45%);
+ tranform: translate(-20%, 45%);
 }
 
 .mainprojects {
  position: fixed;
  top: 45%;
  left: 50%;
- tranform: translate(-50%, -45%);
+ tranform: translate(-50%, 45%);
 }
 
 .mainsearch {
  position: fixed;
  top: 45%;
  left: 80%;
- tranform: translate(-80%, -45%);
+ tranform: translate(-80%, 45%);
 }
   
 
