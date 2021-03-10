@@ -61,8 +61,8 @@ transform: translate(-50%, 0%);
 .mainabout {
  position: fixed;
  top: 40%;
- left: 10%;
- tranform: translate(10%, 40%);
+ left: 15%;
+ tranform: translate(15%, 40%);
 }
 
 .mainprojects {
@@ -75,8 +75,8 @@ transform: translate(-50%, 0%);
 .mainsearch {
  position: fixed;
  top: 40%;
- left: 70%;
- tranform: translate(70%, 40%);
+ left: 75%;
+ tranform: translate(75%, 40%);
 }
 
   
